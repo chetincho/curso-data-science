@@ -6,9 +6,9 @@ Pandas es una biblioteca de código abierto para el lenguaje de programación Py
 Las dos estructuras de datos principales en Pandas son:
 - Series: Es un array unidimensional etiquetado capaz de contener cualquier tipo de datos. Se puede pensar en un array como una columna de una hoja de cálculo o una serie temporal. Por ejemplo, este es un array con el top 10 de los paises con mas población del mundo.
 
-+-------------------+
+|-------------------|
 | País              |
-+-------------------+
+|-------------------|
 | China             |
 | India             |
 | Estados Unidos    |
@@ -19,7 +19,7 @@ Las dos estructuras de datos principales en Pandas son:
 | Bangladesh        |
 | Rusia             |
 | México            |
-+-------------------+
+|-------------------|
 
 - DataFrame: Es una estructura de datos bidimensional similar a una tabla de base de datos o una hoja de cálculo de Excel. Se puede ver como una colección de Series, donde cada Serie es una columna. Siguiendo con el ejemplo anterior este es un ejemplo de DataFrame donde ademas de los países ahora se incluye la poblacion en millones de habitantes.
 
