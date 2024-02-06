@@ -11,10 +11,10 @@ Vemos conceptos básicos, definición de un DataFrame, consultas básicas y sus 
 
 ### Ruta de Aprendizaje
 
+<p>
 - [ ] Tratamiento de la información duplicada: Método [drop_duplicates](https://github.com/chetincho/curso-data-science/blob/main/metodo_drop_duplicates.md)
-<br>
 duplicados.ipynb
-
+</p>
 
 ### Buenas Prácticas
 1- Luego de cargar el dataset utilizar el método `varDataFrame.info()` para conocer:
