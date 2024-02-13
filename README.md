@@ -16,7 +16,33 @@ Vemos conceptos básicos, definición de un DataFrame, consultas básicas y sus 
 Archivo: duplicados.ipynb
 
 
+
+
+
+
+
+
+<p>
 ### Buenas Prácticas
+0- Documentar siempre es bueno, no solo para darle mantenimiento al código, sino también para poder comportirlo y que este sea comprendido de forma rápida y sencilla por el resto. <br>
+1 - Importamos las librerías que vamos a utilizar. <br>
+2 - Ahora continuamos con la carga del dataframe. <br>
+3 - Comienza lo bueno, es momento del "Data Analysis" o Análisis exploratorio de datos. <br>
+3.1 - 
+3.2 - 
+3.3 - 
+3.4 - 
+<p>
+
+
+
+
+
+
+
+
+
+
 1- Luego de cargar el dataset utilizar el método `varDataFrame.info()` para conocer:
 * Si existen o no valores nulos y formular una estrategia para su tratamiento.
 * El tipo de dato de cada columna y analizar si corresponden o no transformaciones.
